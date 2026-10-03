@@ -1,0 +1,16 @@
+  224  ls
+  225  ls -a
+  226  source .venv/bin/activate
+  227  which python3
+  228  pip list
+  229  pip install requests 
+  230  pip list
+  231  deactivate
+  232  which python3
+  233  man ls
+  234  ~/coding-cafe/week02/notes.md
+  235  ls ~/coding-cafe
+  236  ls ~/coding-cafe/week02
+  237  nano ~/coding-cafe/week02/notes.md
+  238  nano ~/coding-cafe/week02/notes.md
+  239  cd ~/coding-cafe
